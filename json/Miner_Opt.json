@@ -1,0 +1,33 @@
+{
+    "autopause": false,
+    "chivalry": false,
+    "escape": true,
+    "firebeetle": null,
+    "hiding": false,
+    "homebook": 0,
+    "homechest": {
+        "gem": 0,
+        "ingot": 0,
+        "rock": 0,
+        "sand": 0,
+        "trash": 0
+    },
+    "homeforge": 0,
+    "homepos": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+    },
+    "homerune": [
+        1
+    ],
+    "meditation": false,
+    "minebook": [],
+    "minerune": [
+        0,
+        16
+    ],
+    "precioussmelt": false,
+    "protection": false,
+    "tinkering": true
+}

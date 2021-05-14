@@ -1,0 +1,44 @@
+{
+    "gem": {
+        "amber": 0,
+        "blackrock": 0,
+        "citrine": 0,
+        "diamond": 0,
+        "emerald": 0,
+        "ruby": 0,
+        "sapphire": 0,
+        "starsapphire": 0,
+        "turmaline": 0
+    },
+    "ingot": {
+        "agapite": 0,
+        "bronze": 0,
+        "copper": 0,
+        "dull": 0,
+        "gold": 0,
+        "iron": 0,
+        "shadow": 0,
+        "valorite": 0,
+        "verite": 0
+    },
+    "rock": {
+        "agapite": 0,
+        "bronze": 0,
+        "copper": 0,
+        "dull": 0,
+        "gold": 0,
+        "iron": 0,
+        "shadow": 0,
+        "valorite": 0,
+        "verite": 0
+    },
+    "sand": 0,
+    "unique": {
+        "bluediamond": 0,
+        "darksapphire": 0,
+        "ecrucitrine": 0,
+        "fireruby": 0,
+        "perfectemerald": 0,
+        "turquoise": 0
+    }
+}

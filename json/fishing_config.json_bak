@@ -1,0 +1,87 @@
+{{
+    "bank_bag": 1078197148,
+    "cargo_hold": 0,
+    "delays": {
+        "base": 500,
+        "cast": 2000,
+        "drag": 700,
+        "recovery": 2000,
+        "timeout": 7000,
+        "walk": 1500
+    },
+    "fish_crate": null,
+    "ids": {
+        "corpse": 8198,
+        "dagger": 3922,
+        "fish": [
+            2508,
+            2509,
+            2510,
+            2511,
+            17159,
+            17604,
+            17606,
+            17158,
+            17605,
+            17155,
+            17603
+        ],
+        "keep": [
+            2426,
+            12694,
+            22330,
+            5358,
+            3530,
+            2454,
+            3821,
+            2463,
+            5356
+        ],
+        "pole": 3520,
+        "shipkey": [
+            4111,
+            7956
+        ],
+        "trash": [
+            5901,
+            5905,
+            5903,
+            5899,
+            3542,
+            5368
+        ]
+    },
+    "legendaries": [
+        "abyssal dragonfish",
+        "black marlin",
+        "blue marlin",
+        "dungeon pike",
+        "giant samurai fish",
+        "golden tuna",
+        "kingfish",
+        "lantern fish",
+        "rainbow fish",
+        "seeker fish",
+        "spring dragonfish",
+        "stone fish",
+        "winter dragonfish",
+        "zombie fish"
+    ],
+    "loot_bag": 1077816333,
+    "runebooks": {
+        "bank": {
+            "book": 1077961168,
+            "rune": 7,
+            "x": 2046,
+            "y": 1345
+        },
+        "ship": {
+            "book": 0,
+            "rune": 0,
+            "x": 0,
+            "y": 0
+        }
+    },
+    "trash_chest": 1078051156,
+    "use_chivalry": true
+}}
